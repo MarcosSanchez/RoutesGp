@@ -27,6 +27,12 @@
     
     NSString *ejemplo = @"ejemplo";
     NSLog(@"%@", ejemplo);
+
+    NSString *ejemplos = @"ejemplos";
+    NSLog(@"%@", ejemplos);
+
+    
+    
 }
 
 @end
